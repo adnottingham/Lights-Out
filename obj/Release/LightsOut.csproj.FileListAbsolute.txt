@@ -1,0 +1,9 @@
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\bin\Release\LightsOut.exe.config
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\bin\Release\LightsOut.exe
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\bin\Release\LightsOut.pdb
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\obj\Release\LightsOut.csprojResolveAssemblyReference.cache
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\obj\Release\LightsOut.Form1.resources
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\obj\Release\LightsOut.Properties.Resources.resources
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\obj\Release\LightsOut.csproj.GenerateResource.Cache
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\obj\Release\LightsOut.exe
+C:\Users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\LightsOut\LightsOut\obj\Release\LightsOut.pdb
